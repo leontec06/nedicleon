@@ -13,21 +13,24 @@
    ========================================================================= */
 
 const photos = [
-  { src: "images/terraced-field.jpg", alt: "Figure in a green terraced field" },
+  { src: "images/red-crane.jpg", alt: "Red harbour crane" },
+  
   { src: "images/wildflowers-hill.jpg", alt: "Wildflowers on a green hillside" },
   { src: "images/alpine-cabin-snow.jpg", alt: "Red cabin below snowy mountains" },
   { src: "images/alpine-cabin-meadow.jpg", alt: "Red cabin in a green meadow" },
   { src: "images/pink-facade.jpg", alt: "Playful pink facade" },
   { src: "images/bw-birds-street.jpg", alt: "Black and white street with birds" },
-  { src: "images/bw-bench.jpg", alt: "Black and white bench silhouette" },
+  
+  
   { src: "images/bw-lakeshore.jpg", alt: "Black and white figure at the lakeshore" },
+  { src: "images/abstract-red.jpg", alt: "Glossy red abstract close-up" },
   { src: "images/bw-bicycles.jpg", alt: "Black and white parked bicycles" },
   { src: "images/bw-light-trails.jpg", alt: "Black and white light trails" },
   { src: "images/carousel.jpg", alt: "Carousel lit up at night" },
   { src: "images/funfair-dusk.jpg", alt: "Funfair at dusk" },
-  { src: "images/red-crane.jpg", alt: "Red harbour crane" },
+  
   { src: "images/window-display.jpg", alt: "Window display interior" },
-  { src: "images/abstract-red.jpg", alt: "Glossy red abstract close-up" },
+  { src: "images/bw-bench.jpg", alt: "Black and white bench silhouette" },
   { src: "images/minimal-wall.jpg", alt: "Minimal object on a wall" },
   { src: "images/bw-city-street.jpg", alt: "Black and white city street" },
   { src: "images/bw-giant-chess.jpg", alt: "Black and white giant chess game" },
