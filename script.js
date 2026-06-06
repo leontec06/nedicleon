@@ -100,7 +100,7 @@ portraitEl.style.backgroundPosition = 'center';
 /* ---------------- marquee ---------------- */
 const mq = document.getElementById('marquee');
 const bits = ['ETH Student', 'Life Enjoyer', 'Photographer'];
-const glyphs = ['⭒', '⋆', '⏾', '✧', '₊˚'];
+const glyphs = ['⭒', '⋆', '☾', '✧', '₊˚'];
 let unit = '';
 const seq = bits.concat(bits, bits); // repeat so the track is wide enough to loop seamlessly
 seq.forEach((b, i) => { unit += `<span>${b}</span><span class="g">${glyphs[i % glyphs.length]}</span>`; });
