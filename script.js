@@ -13,21 +13,7 @@
    ========================================================================= */
 
 const photos = [
-  { src: "images/pedal-boats-lake.jpg", alt: "Pedal boats on an alpine lake" },
-  { src: "images/temple-street.jpg", alt: "Street in front of an ornate temple" },
-  { src: "images/pagoda.jpg", alt: "Ornate pagoda tower" },
-  { src: "images/market-street.jpg", alt: "Busy market street" },
-  { src: "images/narrow-street.jpg", alt: "Crowded narrow street" },
-  { src: "images/craftsman.jpg", alt: "Craftsman at work" },
-  { src: "images/monks.jpg", alt: "Monks in orange robes" },
-  { src: "images/waterfall.jpg", alt: "Waterfall in the forest" },
-  { src: "images/street-walker.jpg", alt: "Person walking down a street" },
-  { src: "images/water-buffalo.jpg", alt: "Water buffalo under a tree" },
   { src: "images/terraced-field.jpg", alt: "Figure in a green terraced field" },
-  { src: "images/summit-flag.jpg", alt: "Flag at a mountain summit" },
-  { src: "images/lake-dusk-boat.jpg", alt: "Boat on a calm lake at dusk" },
-  { src: "images/city-street-taxi.jpg", alt: "City street with a yellow taxi" },
-  { src: "images/neoclassical-building.jpg", alt: "Neoclassical building with columns" },
   { src: "images/wildflowers-hill.jpg", alt: "Wildflowers on a green hillside" },
   { src: "images/alpine-cabin-snow.jpg", alt: "Red cabin below snowy mountains" },
   { src: "images/alpine-cabin-meadow.jpg", alt: "Red cabin in a green meadow" },
