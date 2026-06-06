@@ -13,12 +13,44 @@
    ========================================================================= */
 
 const photos = [
-  // { src: "images/photo-01.jpg", alt: "Describe the photo" },
-  // { src: "images/photo-02.jpg", alt: "Describe the photo" },
+  { src: "images/pedal-boats-lake.jpg", alt: "Pedal boats on an alpine lake" },
+  { src: "images/temple-street.jpg", alt: "Street in front of an ornate temple" },
+  { src: "images/pagoda.jpg", alt: "Ornate pagoda tower" },
+  { src: "images/market-street.jpg", alt: "Busy market street" },
+  { src: "images/narrow-street.jpg", alt: "Crowded narrow street" },
+  { src: "images/craftsman.jpg", alt: "Craftsman at work" },
+  { src: "images/monks.jpg", alt: "Monks in orange robes" },
+  { src: "images/waterfall.jpg", alt: "Waterfall in the forest" },
+  { src: "images/street-walker.jpg", alt: "Person walking down a street" },
+  { src: "images/water-buffalo.jpg", alt: "Water buffalo under a tree" },
+  { src: "images/terraced-field.jpg", alt: "Figure in a green terraced field" },
+  { src: "images/summit-flag.jpg", alt: "Flag at a mountain summit" },
+  { src: "images/lake-dusk-boat.jpg", alt: "Boat on a calm lake at dusk" },
+  { src: "images/city-street-taxi.jpg", alt: "City street with a yellow taxi" },
+  { src: "images/neoclassical-building.jpg", alt: "Neoclassical building with columns" },
+  { src: "images/wildflowers-hill.jpg", alt: "Wildflowers on a green hillside" },
+  { src: "images/alpine-cabin-snow.jpg", alt: "Red cabin below snowy mountains" },
+  { src: "images/alpine-cabin-meadow.jpg", alt: "Red cabin in a green meadow" },
+  { src: "images/pink-facade.jpg", alt: "Playful pink facade" },
+  { src: "images/bw-birds-street.jpg", alt: "Black and white street with birds" },
+  { src: "images/bw-bench.jpg", alt: "Black and white bench silhouette" },
+  { src: "images/bw-lakeshore.jpg", alt: "Black and white figure at the lakeshore" },
+  { src: "images/bw-bicycles.jpg", alt: "Black and white parked bicycles" },
+  { src: "images/bw-light-trails.jpg", alt: "Black and white light trails" },
+  { src: "images/carousel.jpg", alt: "Carousel lit up at night" },
+  { src: "images/funfair-dusk.jpg", alt: "Funfair at dusk" },
+  { src: "images/red-crane.jpg", alt: "Red harbour crane" },
+  { src: "images/window-display.jpg", alt: "Window display interior" },
+  { src: "images/abstract-red.jpg", alt: "Glossy red abstract close-up" },
+  { src: "images/minimal-wall.jpg", alt: "Minimal object on a wall" },
+  { src: "images/bw-city-street.jpg", alt: "Black and white city street" },
+  { src: "images/bw-giant-chess.jpg", alt: "Black and white giant chess game" },
+  { src: "images/bw-park.jpg", alt: "Black and white people on park benches" },
+  { src: "images/bw-street.jpg", alt: "Black and white street photograph" },
 ];
 
 // Portrait shown in the About section. Leave empty for a placeholder.
-const PORTRAIT = ""; // e.g. "images/portrait.jpg"
+const PORTRAIT = "images/portrait.jpg"; // e.g. "images/portrait.jpg"
 
 
 /* ---------- placeholder generator (only used until real photos exist) ---- */
